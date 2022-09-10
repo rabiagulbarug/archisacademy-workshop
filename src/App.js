@@ -152,7 +152,7 @@ const App = () => {
             <div className="testimonial">
                 <div className="double-quotes">
                     <img
-                        src="/assets/testimonial/quoteMark.jpg"
+                        src="/assets/testimonial/Testimonials.png"
                         alt="double-quote-background"
                     />
                 </div>
@@ -167,7 +167,7 @@ const App = () => {
                         alt="airbnb-logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt="quotemark"/>
+                        <img className="quotemark" src="/assets/testimonial/Testimonials.png" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 I used landify and created a landing<br/>
@@ -190,7 +190,7 @@ const App = () => {
                         alt="logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt="quotemark"/>
+                        <img className="quotemark" src="/assets/testimonial/Testimonials.png" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 Landify saved our time in <br/>
@@ -211,7 +211,7 @@ const App = () => {
                         alt="hubsport-logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt="quotemark"/>
+                        <img className="quotemark" src="/assets/testimonial/Testimonials.png" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 To quickly start my startup<br/>
