@@ -305,7 +305,7 @@ const App = () => {
                     </div>
                 </div>
                 <div className="cover-image">
-                    <img src="/assets/feature/cover-image.jpg" alt="cover image"/>
+                    <img src="/assets/feature/cover-image.jpg" alt="enter the world of all fashion trends"/>
                 </div>
             </div>
             <div className="cta">
