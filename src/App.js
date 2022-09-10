@@ -19,7 +19,7 @@ const App = () => {
                     <li className="list-item">Jobs</li>
                     <li className="list-item">More
                         <span className="chevron-down">
-                                <img src="/assets/hero/chevron-down.jpg" alt=""/>
+                                <img src="/assets/hero/chevron-down.jpg" alt="chevron down"/>
                             </span>
                     </li>
                 </ul>
@@ -167,7 +167,7 @@ const App = () => {
                         alt="airbnb-logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt=""/>
+                        <img className="quotemark" src="" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 I used landify and created a landing<br/>
@@ -187,10 +187,10 @@ const App = () => {
                     <img
                         className="logo"
                         src="/assets/logo/bookMyShowLogo.jpg"
-                        alt=""
+                        alt="logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt=""/>
+                        <img className="quotemark" src="" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 Landify saved our time in <br/>
@@ -211,7 +211,7 @@ const App = () => {
                         alt="hubsport-logo"
                     />
                     <div className="testimonial-content">
-                        <img className="quotemark" src="" alt=""/>
+                        <img className="quotemark" src="" alt="quotemark"/>
                         <div className="feedback-person">
                             <p className="feedback">
                                 To quickly start my startup<br/>
@@ -239,14 +239,14 @@ const App = () => {
                 <div className="counts">
                     <div className="count-row-1">
                         <div className="count-icons">
-                            <img src="/assets/icons/Icon-7.jpg" alt=""/>
+                            <img src="/assets/icons/Icon-7.jpg" alt="icon7"/>
                             <div className="count-detail">
                                 <p className="number-detail">10,000+</p>
                                 <p className="description-detail">Downloads per day</p>
                             </div>
                         </div>
                         <div className="count-icons">
-                            <img src="/assets/icons/Icon-8.jpg" alt=""/>
+                            <img src="/assets/icons/Icon-8.jpg" alt="icon8"/>
                             <div className="count-detail">
                                 <p className="number-detail">2 Million</p>
                                 <p className="description-detail">Users</p>
@@ -255,14 +255,14 @@ const App = () => {
                     </div>
                     <div className="count-row-2">
                         <div className="count-icons">
-                            <img src="/assets/icons/Icon-9.jpg" alt=""/>
+                            <img src="/assets/icons/Icon-9.jpg" alt="icon9"/>
                             <div className="count-detail">
                                 <p className="number-detail">500+</p>
                                 <p className="description-detail">Clients</p>
                             </div>
                         </div>
                         <div className="count-icons">
-                            <img src="/assets/icons/Icon-10.jpg" alt=""/>
+                            <img src="/assets/icons/Icon-10.jpg" alt="icon10"/>
                             <div className="count-detail">
                                 <p className="number-detail">140</p>
                                 <p className="description-detail">Countries</p>
@@ -273,7 +273,7 @@ const App = () => {
             </div>
             <div className="feature-single">
                 <div className="feature-phone-mockup">
-                    <img src="/assets/feature/phone-mockup-single.jpg" alt=""/>
+                    <img src="/assets/feature/phone-mockup-single.jpg" alt="phone mockup"/>
                 </div>
                 <div className="feature-content">
                     <div className="content-headline">
@@ -289,7 +289,7 @@ const App = () => {
                     </div>
                     <div className="content-button">
                         <button>Get started</button>
-                        <img src="/assets/icons/right-arrow.jpg"/>
+                        <img src="/assets/icons/right-arrow.jpg" alt="right-arrow"/>
                     </div>
                 </div>
             </div>
@@ -305,7 +305,7 @@ const App = () => {
                     </div>
                 </div>
                 <div className="cover-image">
-                    <img src="/assets/feature/cover-image.jpg" alt=""/>
+                    <img src="/assets/feature/cover-image.jpg" alt="cover image"/>
                 </div>
             </div>
             <div className="cta">
